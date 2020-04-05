@@ -9,4 +9,7 @@
 - You can clear all the task checked by clicking the button "Clear complete to do's"
 
 
+## This app has boostrap installed.
+- The style has been made with bootstrap tables and forms. So it will look nicer.
+
 
