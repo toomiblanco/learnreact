@@ -12,4 +12,6 @@
 ## This app has boostrap installed.
 - The style has been made with bootstrap tables and forms. So it will look nicer.
 
+## Responsive
+- As the app is styled with bootstrap it has a responsive style.
 
